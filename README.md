@@ -54,4 +54,4 @@ Advanced Discord token extraction tool developed by **HITMAN** for security rese
 
 ### Webhook Configuration
 ```python
-WEBHOOK_URL = "your_discord_webhook_url_here"```
+WEBHOOK_URL = "your_webhook_url_here"
