@@ -1,4 +1,4 @@
-# HITMANGRABBER
+# RageVAKS
 
 ## Overview
 Advanced Discord token extraction tool developed by **HITMAN** for security research and educational purposes. This tool scans multiple locations for Discord authentication tokens and sends detailed reports via Discord webhooks.
