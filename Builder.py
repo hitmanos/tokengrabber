@@ -562,4 +562,6 @@ if __name__ == "__main__":
     
     root = ctk.CTk()
     app = TokenGrabberBuilder(root)
+
     root.mainloop()
+# if u like this pls give star on github       
